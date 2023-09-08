@@ -29,7 +29,7 @@ HTML, CSS , JS, React.js
 
 
 
-## 2. After adding crypto
+## 2. After adding task
 ![todo-after-add](https://github.com/deepakpradhan624/todo-react-app/assets/107460051/d80d0d3a-7c9c-40ba-9cb0-30b6f3dde250)
 
 
