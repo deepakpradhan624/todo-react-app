@@ -3,7 +3,7 @@
 # Assignment Name :- todo-list
 
 
-Hello Everyone, We've developed  a small todo list frontend where a user can add and remove tasks.
+Hello Everyone, I've developed  a small todo list frontend where a user can add and remove tasks.
 
 
 # About Project | todo-list :
@@ -11,7 +11,7 @@ Hello Everyone, We've developed  a small todo list frontend where a user can add
 Todo List : It is a todo app where a user can add and remove tasks.
 
 
-# Member: It is an individual project build by Deepak Pradhan
+# Member: It is an individual project built by Deepak Pradhan
  
 
 # Tech stacks used :
@@ -33,12 +33,7 @@ HTML, CSS , JS, React.js
 ![todo-after-add](https://github.com/deepakpradhan624/todo-react-app/assets/107460051/d80d0d3a-7c9c-40ba-9cb0-30b6f3dde250)
 
 
-
-
-
-
-
-We hope this article will help in establishing better understanding of our project.
+I hope this article will help in establishing a better understanding of our project.
 
 # Thank you
 
