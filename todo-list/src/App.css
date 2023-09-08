@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.tasklist{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  margin-top: 10px;
+  display: flex;
+
+  border: 1px solid blue;
+  width: 20%;
+
+margin-left: 40%;
+}
+h3{
+  display: block;
+}
+.removebtn{
+  background-color: red;
+  color: white;
+ margin-left: 20%;
+}
+button{
+  cursor: pointer;
+}
+.container{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+  width: 40%;
+  height: auto;
+  margin: auto;
+}
